@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/seven-hills/static/css/main.58a5204a.chunk.css",
-    "main.js": "/seven-hills/static/js/main.853a6ff7.chunk.js",
-    "main.js.map": "/seven-hills/static/js/main.853a6ff7.chunk.js.map",
+    "main.css": "/seven-hills/static/css/main.f07c181d.chunk.css",
+    "main.js": "/seven-hills/static/js/main.a784db5f.chunk.js",
+    "main.js.map": "/seven-hills/static/js/main.a784db5f.chunk.js.map",
     "runtime-main.js": "/seven-hills/static/js/runtime-main.497674fe.js",
     "runtime-main.js.map": "/seven-hills/static/js/runtime-main.497674fe.js.map",
     "static/css/2.764ccc25.chunk.css": "/seven-hills/static/css/2.764ccc25.chunk.css",
-    "static/js/2.54123f80.chunk.js": "/seven-hills/static/js/2.54123f80.chunk.js",
-    "static/js/2.54123f80.chunk.js.map": "/seven-hills/static/js/2.54123f80.chunk.js.map",
+    "static/js/2.c975a466.chunk.js": "/seven-hills/static/js/2.c975a466.chunk.js",
+    "static/js/2.c975a466.chunk.js.map": "/seven-hills/static/js/2.c975a466.chunk.js.map",
     "index.html": "/seven-hills/index.html",
-    "precache-manifest.8e927deaf3d78ee4d758847c10250cd1.js": "/seven-hills/precache-manifest.8e927deaf3d78ee4d758847c10250cd1.js",
+    "precache-manifest.ca4463739dbdc7891e65542e2c2747a7.js": "/seven-hills/precache-manifest.ca4463739dbdc7891e65542e2c2747a7.js",
     "service-worker.js": "/seven-hills/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/seven-hills/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.58a5204a.chunk.css.map": "/seven-hills/static/css/main.58a5204a.chunk.css.map",
-    "static/js/2.54123f80.chunk.js.LICENSE.txt": "/seven-hills/static/js/2.54123f80.chunk.js.LICENSE.txt",
+    "static/css/main.f07c181d.chunk.css.map": "/seven-hills/static/css/main.f07c181d.chunk.css.map",
+    "static/js/2.c975a466.chunk.js.LICENSE.txt": "/seven-hills/static/js/2.c975a466.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/seven-hills/static/media/Montserrat-Regular.23488bf2.woff2",
+    "static/media/Park Avenue VIP.mp4": "/seven-hills/static/media/Park Avenue VIP.943c90a3.mp4",
     "static/media/about.jpg": "/seven-hills/static/media/about.5bc365da.jpg",
-    "static/media/MainBanner.module.scss": "/seven-hills/static/media/main_banner-bg.28495573.jpg"
+    "static/media/MainBanner.module.scss": "/seven-hills/static/media/main_banner-bg.28495573.jpg",
+    "static/media/button-play__bg.jpg": "/seven-hills/static/media/button-play__bg.10976617.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.497674fe.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.54123f80.chunk.js",
-    "static/css/main.58a5204a.chunk.css",
-    "static/js/main.853a6ff7.chunk.js"
+    "static/js/2.c975a466.chunk.js",
+    "static/css/main.f07c181d.chunk.css",
+    "static/js/main.a784db5f.chunk.js"
   ]
 }
