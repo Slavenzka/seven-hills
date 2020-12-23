@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d7ec8c485aa0d6e042278344a36c348",
+    "revision": "620877820ff621f9ddca26cda85b278d",
     "url": "/seven-hills/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "a842508c2d2371bf26eb",
-    "url": "/seven-hills/static/css/main.f07c181d.chunk.css"
+    "revision": "1f92141284055364b374",
+    "url": "/seven-hills/static/css/main.582b97e3.chunk.css"
   },
   {
     "revision": "b8548a7c6c4b796bc203",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/js/2.c975a466.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a842508c2d2371bf26eb",
+    "revision": "1f92141284055364b374",
     "url": "/seven-hills/static/js/main.a784db5f.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/seven-hills/static/css/main.f07c181d.chunk.css",
+    "main.css": "/seven-hills/static/css/main.582b97e3.chunk.css",
     "main.js": "/seven-hills/static/js/main.a784db5f.chunk.js",
     "main.js.map": "/seven-hills/static/js/main.a784db5f.chunk.js.map",
     "runtime-main.js": "/seven-hills/static/js/runtime-main.497674fe.js",
@@ -9,10 +9,10 @@
     "static/js/2.c975a466.chunk.js": "/seven-hills/static/js/2.c975a466.chunk.js",
     "static/js/2.c975a466.chunk.js.map": "/seven-hills/static/js/2.c975a466.chunk.js.map",
     "index.html": "/seven-hills/index.html",
-    "precache-manifest.ca4463739dbdc7891e65542e2c2747a7.js": "/seven-hills/precache-manifest.ca4463739dbdc7891e65542e2c2747a7.js",
+    "precache-manifest.1f93b305ab602f458fff97f1c3cfb3ec.js": "/seven-hills/precache-manifest.1f93b305ab602f458fff97f1c3cfb3ec.js",
     "service-worker.js": "/seven-hills/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/seven-hills/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.f07c181d.chunk.css.map": "/seven-hills/static/css/main.f07c181d.chunk.css.map",
+    "static/css/main.582b97e3.chunk.css.map": "/seven-hills/static/css/main.582b97e3.chunk.css.map",
     "static/js/2.c975a466.chunk.js.LICENSE.txt": "/seven-hills/static/js/2.c975a466.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/seven-hills/static/media/Montserrat-Regular.23488bf2.woff2",
     "static/media/Park Avenue VIP.mp4": "/seven-hills/static/media/Park Avenue VIP.943c90a3.mp4",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.497674fe.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.c975a466.chunk.js",
-    "static/css/main.f07c181d.chunk.css",
+    "static/css/main.582b97e3.chunk.css",
     "static/js/main.a784db5f.chunk.js"
   ]
 }
