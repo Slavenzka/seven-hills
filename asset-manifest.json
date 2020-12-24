@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/seven-hills/static/css/main.6e76241d.chunk.css",
-    "main.js": "/seven-hills/static/js/main.75cf2079.chunk.js",
-    "main.js.map": "/seven-hills/static/js/main.75cf2079.chunk.js.map",
+    "main.js": "/seven-hills/static/js/main.5ff2eeb8.chunk.js",
+    "main.js.map": "/seven-hills/static/js/main.5ff2eeb8.chunk.js.map",
     "runtime-main.js": "/seven-hills/static/js/runtime-main.497674fe.js",
     "runtime-main.js.map": "/seven-hills/static/js/runtime-main.497674fe.js.map",
     "static/css/2.6f4524ac.chunk.css": "/seven-hills/static/css/2.6f4524ac.chunk.css",
     "static/js/2.faf4bc71.chunk.js": "/seven-hills/static/js/2.faf4bc71.chunk.js",
     "static/js/2.faf4bc71.chunk.js.map": "/seven-hills/static/js/2.faf4bc71.chunk.js.map",
     "index.html": "/seven-hills/index.html",
-    "precache-manifest.87d8195992af604e221beaad4efd608b.js": "/seven-hills/precache-manifest.87d8195992af604e221beaad4efd608b.js",
+    "precache-manifest.c4a1b006e01644506f8e82192254066b.js": "/seven-hills/precache-manifest.c4a1b006e01644506f8e82192254066b.js",
     "service-worker.js": "/seven-hills/service-worker.js",
     "static/css/2.6f4524ac.chunk.css.map": "/seven-hills/static/css/2.6f4524ac.chunk.css.map",
     "static/css/main.6e76241d.chunk.css.map": "/seven-hills/static/css/main.6e76241d.chunk.css.map",
     "static/js/2.faf4bc71.chunk.js.LICENSE.txt": "/seven-hills/static/js/2.faf4bc71.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/seven-hills/static/media/Montserrat-Regular.23488bf2.woff2",
     "static/media/Park Avenue VIP.mp4": "/seven-hills/static/media/Park Avenue VIP.943c90a3.mp4",
-    "static/media/about.jpg": "/seven-hills/static/media/about.5bc365da.jpg",
+    "static/media/about.jpg": "/seven-hills/static/media/about.054b0d2e.jpg",
     "static/media/MainBanner.module.scss": "/seven-hills/static/media/main_banner-bg.28495573.jpg",
     "static/media/button-play__bg.jpg": "/seven-hills/static/media/button-play__bg.10976617.jpg",
     "static/media/ProjectSlide.module.scss": "/seven-hills/static/media/i_neighbours.3539bf09.svg",
@@ -35,6 +35,6 @@
     "static/css/2.6f4524ac.chunk.css",
     "static/js/2.faf4bc71.chunk.js",
     "static/css/main.6e76241d.chunk.css",
-    "static/js/main.75cf2079.chunk.js"
+    "static/js/main.5ff2eeb8.chunk.js"
   ]
 }
