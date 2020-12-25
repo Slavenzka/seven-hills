@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6153510437c30cf9d28506095f95eee6",
+    "revision": "478886d8ef79ee631536ca7dd1ce6354",
     "url": "/seven-hills/index.html"
   },
   {
-    "revision": "1dd5271eb242a1f9443d",
+    "revision": "bfdeb2aa8223c08133f4",
     "url": "/seven-hills/static/css/2.6f4524ac.chunk.css"
   },
   {
-    "revision": "a2496677d67314655885",
-    "url": "/seven-hills/static/css/main.29787d29.chunk.css"
+    "revision": "e1e5db1d9b6d392ce095",
+    "url": "/seven-hills/static/css/main.7805efeb.chunk.css"
   },
   {
-    "revision": "1dd5271eb242a1f9443d",
-    "url": "/seven-hills/static/js/2.13cc31e9.chunk.js"
+    "revision": "bfdeb2aa8223c08133f4",
+    "url": "/seven-hills/static/js/2.813bb15d.chunk.js"
   },
   {
     "revision": "2409169cc9d488610c63e21c6ccf8ee2",
-    "url": "/seven-hills/static/js/2.13cc31e9.chunk.js.LICENSE.txt"
+    "url": "/seven-hills/static/js/2.813bb15d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2496677d67314655885",
-    "url": "/seven-hills/static/js/main.e9eb5035.chunk.js"
+    "revision": "e1e5db1d9b6d392ce095",
+    "url": "/seven-hills/static/js/main.687f7e21.chunk.js"
   },
   {
     "revision": "a12afae23687f9088404",
