@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/seven-hills/precache-manifest.fe38d6b5ab9c7114514580d6d83ecbe5.js"
+  "/seven-hills/precache-manifest.a3ccc7734f3c29479cb10f8b3f610c73.js"
 );
 
 self.addEventListener('message', (event) => {
