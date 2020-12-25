@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9595de7d9137a9a33d584239d1a80896",
+    "revision": "6153510437c30cf9d28506095f95eee6",
     "url": "/seven-hills/index.html"
   },
   {
-    "revision": "2ffbd025b3fa6c0e5813",
+    "revision": "1dd5271eb242a1f9443d",
     "url": "/seven-hills/static/css/2.6f4524ac.chunk.css"
   },
   {
-    "revision": "ef15dfc8580e3aaaefb7",
-    "url": "/seven-hills/static/css/main.403aa9ff.chunk.css"
+    "revision": "a2496677d67314655885",
+    "url": "/seven-hills/static/css/main.29787d29.chunk.css"
   },
   {
-    "revision": "2ffbd025b3fa6c0e5813",
-    "url": "/seven-hills/static/js/2.b8dbd6c6.chunk.js"
+    "revision": "1dd5271eb242a1f9443d",
+    "url": "/seven-hills/static/js/2.13cc31e9.chunk.js"
   },
   {
     "revision": "2409169cc9d488610c63e21c6ccf8ee2",
-    "url": "/seven-hills/static/js/2.b8dbd6c6.chunk.js.LICENSE.txt"
+    "url": "/seven-hills/static/js/2.13cc31e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef15dfc8580e3aaaefb7",
-    "url": "/seven-hills/static/js/main.6cce0138.chunk.js"
+    "revision": "a2496677d67314655885",
+    "url": "/seven-hills/static/js/main.e9eb5035.chunk.js"
   },
   {
     "revision": "a12afae23687f9088404",
@@ -92,20 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/media/diveeva.5453f2a2.jpg"
   },
   {
-    "revision": "28cee0164b7a7bbc29a3c2a54670abb6",
-    "url": "/seven-hills/static/media/i_design.28cee016.svg"
-  },
-  {
-    "revision": "12458d1c5078032aae13041c456d680a",
-    "url": "/seven-hills/static/media/i_infrastructure.12458d1c.svg"
-  },
-  {
-    "revision": "db2e3b3147984f001e3ca67f2b85cdae",
-    "url": "/seven-hills/static/media/i_location.db2e3b31.svg"
-  },
-  {
-    "revision": "3539bf09af9cdd64bd39369961c276e8",
-    "url": "/seven-hills/static/media/i_neighbours.3539bf09.svg"
+    "revision": "e14b3817a8fd806a6fa251bf81dd3359",
+    "url": "/seven-hills/static/media/i_jigsaw.e14b3817.svg"
   },
   {
     "revision": "d8bf6bc709a4024a0b1e12fa790acea3",
