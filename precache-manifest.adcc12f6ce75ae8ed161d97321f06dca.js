@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "478886d8ef79ee631536ca7dd1ce6354",
+    "revision": "a6f6e866d8d1f221a85697ebe80dcc67",
     "url": "/seven-hills/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/css/2.6f4524ac.chunk.css"
   },
   {
-    "revision": "e1e5db1d9b6d392ce095",
-    "url": "/seven-hills/static/css/main.7805efeb.chunk.css"
+    "revision": "80d1c06533e5b2db7c89",
+    "url": "/seven-hills/static/css/main.2c63f374.chunk.css"
   },
   {
     "revision": "bfdeb2aa8223c08133f4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/js/2.813bb15d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1e5db1d9b6d392ce095",
-    "url": "/seven-hills/static/js/main.687f7e21.chunk.js"
+    "revision": "80d1c06533e5b2db7c89",
+    "url": "/seven-hills/static/js/main.0ae26e5c.chunk.js"
   },
   {
     "revision": "a12afae23687f9088404",
@@ -104,28 +104,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/media/main_banner-bg.28495573.jpg"
   },
   {
-    "revision": "261c96e40e4c4dd8a10af8753cf534e6",
-    "url": "/seven-hills/static/media/park-vip_1.261c96e4.jpg"
+    "revision": "6b788c3a61a14fb04ef39b4fda5e6d58",
+    "url": "/seven-hills/static/media/park-vip_1.6b788c3a.jpg"
+  },
+  {
+    "revision": "547c312726fdc7bd6128f0df344b95e6",
+    "url": "/seven-hills/static/media/park-vip_2.547c3127.jpg"
   },
   {
     "revision": "1827d08fe70e7d02de007a9c9c2dbacf",
-    "url": "/seven-hills/static/media/park-vip_2.1827d08f.jpg"
+    "url": "/seven-hills/static/media/park-vip_3.1827d08f.jpg"
   },
   {
-    "revision": "d22af38637237ba3af2d5b8e7fa6deaa",
-    "url": "/seven-hills/static/media/park-vip_3.d22af386.jpg"
+    "revision": "522a2268030105ef76e203c53da6c67c",
+    "url": "/seven-hills/static/media/park_1.522a2268.jpg"
   },
   {
-    "revision": "48923f1f0ea4a87478830f8507c47028",
-    "url": "/seven-hills/static/media/park_1.48923f1f.jpg"
+    "revision": "850503feeb03cb03dfd7dc028474cb53",
+    "url": "/seven-hills/static/media/park_2.850503fe.jpg"
   },
   {
-    "revision": "7ca5ccfced213bae75a6c1b7f47ba9a6",
-    "url": "/seven-hills/static/media/park_2.7ca5ccfc.jpg"
-  },
-  {
-    "revision": "ba91c42531b1881e0ef98aa8d6876586",
-    "url": "/seven-hills/static/media/park_3.ba91c425.jpg"
+    "revision": "a133d5878e273bd4b4e4ff2288f84554",
+    "url": "/seven-hills/static/media/park_3.a133d587.jpg"
   },
   {
     "revision": "fcdd96f449417999ef382fdfdbd988f0",
@@ -136,16 +136,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seven-hills/static/media/semashko.f646e70b.jpg"
   },
   {
-    "revision": "c7d9423b875fd91210f80510ac42a257",
-    "url": "/seven-hills/static/media/triiinity-1.c7d9423b.jpg"
+    "revision": "bcf48aa6fda4caf94a56ab6c8c1fc1be",
+    "url": "/seven-hills/static/media/triiinity-1.bcf48aa6.jpg"
   },
   {
-    "revision": "ff3d4d1c5e5d441684ea6deb150b0fdb",
-    "url": "/seven-hills/static/media/triiinity-2.ff3d4d1c.jpg"
+    "revision": "189e746da44ab4401c1be84ced89c951",
+    "url": "/seven-hills/static/media/triiinity-2.189e746d.jpg"
   },
   {
-    "revision": "8bec6be5bd041f4eca5bd3b7d5392367",
-    "url": "/seven-hills/static/media/triiinity-3.8bec6be5.jpg"
+    "revision": "43abe58d33f86168d84563d1ca458c61",
+    "url": "/seven-hills/static/media/triiinity-3.43abe58d.jpg"
   },
   {
     "revision": "0e0736262a776efcc68729c5a44341e7",
